@@ -1,0 +1,1 @@
+awk -F, '{if (NR>1) print $1 "," $6 "," $7}' $1/price.csv | sed "s/^/$1,/"

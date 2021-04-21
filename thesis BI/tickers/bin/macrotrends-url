@@ -1,0 +1,1 @@
+curl -Ls -o /dev/null -w %{url_effective} https://www.macrotrends.net/stocks/charts/$1 | awk -F/ '{print $6 "/" $7}'
