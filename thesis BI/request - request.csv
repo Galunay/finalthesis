@@ -1,164 +1,164 @@
-1,AFL,NYK,24.05.2016,fraud,-2,2,-4,6,insurance,,Event ID,
-3,AFL,NYK,30.10.2013,fraud,-2,2,-4,6,insurance,,1,insurance
-6,AFL,NYK,29.11.2012,fraud,-2,2,-4,6,insurance,,3,insurance
-12,ANAT,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,6,insurance
-20,AON,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,12,insurance
-21,AON,NYK,06.03.2019,fraud,-2,2,-4,6,insurance,,20,insurance
-23,AON,NYK,20.07.2020,fraud,-2,2,-4,6,insurance,,21,insurance
-26,AON,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,23,insurance
-30,ARCC,NYK,14.04.2021,fraud,-2,2,-4,6,asset management,,26,insurance
-36,ARCC,NYK,17.11.2020,fraud,-2,2,-4,6,asset management,,30,asset management
-37,ARCC,NYK,01.02.2017,fraud,-2,2,-4,6,asset management,,36,asset management
-38,ARCC,NYK,20.02.2018,fraud,-2,2,-4,6,asset management,,37,asset management
-42,AXP,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,38,asset management
-50,BAC,NYK,07.10.2020,fraud,-2,2,-4,6,banking,,42,banking
-51,BAC,NYK,27.02.2018,fraud,-2,2,-4,6,banking,,50,banking
-54,BAC,NYK,15.07.2015,fraud,-2,2,-4,6,banking,,51,banking
-55,BAC,NYK,31.01.2013,fraud,-2,2,-4,6,banking,,54,banking
-56,BAC,NYK,08.10.2009,fraud,-2,2,-4,6,banking,,55,banking
-57,BAC,NYK,07.12.2018,fraud,-2,2,-4,6,banking,,57,banking
-58,BAC,NYK,20.02.2018,fraud,-2,2,-4,6,banking,,58,banking
-60,BHF,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,60,insurance
-64,BHF,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,64,insurance
-65,BHF,NYK,09.04.2021,fraud,-2,2,-4,6,insurance,,65,insurance
-67,BHF,NYK,01.02.2017,fraud,-2,2,-4,6,insurance,,70,banking
-70,BK,NYK,07.10.2020,fraud,-2,2,-4,6,banking,,71,banking
-71,BK,NYK,27.02.2018,fraud,-2,2,-4,6,banking,,74,banking
-74,BK,NYK,15.07.2015,fraud,-2,2,-4,6,banking,,75,banking
-75,BK,NYK,31.01.2013,fraud,-2,2,-4,6,banking,,77,banking
-76,BK,NYK,08.10.2009,fraud,-2,2,-4,6,banking,,78,banking
-77,BK,NYK,07.12.2018,fraud,-2,2,-4,6,banking,,81,asset management
-78,BK,NYK,20.02.2018,fraud,-2,2,-4,6,banking,,82,asset management
-81,BLK,NYK,28.07.2011,fraud,-2,2,-4,6,asset management,,90,insurance
-82,BLK,NYK,11.01.2021,fraud,-2,2,-4,6,asset management,,100,asset management
-90,BRK-A,NYK,08.05.2019,fraud,-2,2,-4,6,insurance,,112,insurance
-100,CG,NYK,28.08.2019,fraud,-2,2,-4,6,asset management,,121,asset management
-108,CG,NYK,18.01.2012,fraud,-2,2,-4,6,asset management,,122,asset management
-112,CINF,NYK,10.11.2011,fraud,-2,2,-4,6,insurance,,123,asset management
-121,CME,NYK,18.11.2013,fraud,-2,2,-4,6,asset management,,132,insurance
-122,CME,NYK,01.02.2017,fraud,-2,2,-4,6,asset management,,134,insurance
-123,CME,NYK,12.10.2015,fraud,-2,2,-4,6,asset management,,136,insurance
-132,CNO,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,138,insurance
-134,CNO,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,144,banking
-136,CNO,NYK,01.02.2017,fraud,-2,2,-4,6,insurance,,150,insurance
-138,CNO,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,152,insurance
-144,DFS,NYK,15.04.2021,fraud,-2,2,-4,6,banking,,154,insurance
-150,FAF,NYK,15.11.2018,fraud,-2,2,-4,6,insurance,,157,insurance
-152,FAF,NYK,20.02.2021,fraud,-2,2,-4,6,insurance,,160,banking
-154,FAF,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,162,banking
-157,FAF,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,164,banking
-160,FCNCA,NYK,15.11.2018,fraud,-2,2,-4,6,banking,,167,banking
-162,FCNCA,NYK,20.02.2021,fraud,-2,2,-4,6,banking,,170,banking
-164,FCNCA,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,171,banking
-167,FCNCA,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,173,banking
-170,FITB,NYK,20.02.2021,fraud,-2,2,-4,6,banking,,174,banking
-171,FITB,NYK,12.04.2021,fraud,-2,2,-4,6,banking,,180,banking
-173,FITB,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,182,banking
-174,FITB,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,184,banking
-180,FMBI,NYK,15.11.2018,fraud,-2,2,-4,6,banking,,187,banking
-182,FMBI,NYK,20.02.2021,fraud,-2,2,-4,6,banking,,201,insurance
-184,FMBI,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,203,insurance
-187,FMBI,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,204,insurance
-201,FNF,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,208,insurance
-203,FNF,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,210,insurance
-204,FNF,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,211,insurance
-208,FNF,NYK,11.04.2018,fraud,-2,2,-4,6,insurance,,213,insurance
-210,GL,NYK,01.02.2017,fraud,-2,2,-4,6,insurance,,214,insurance
-211,GL,NYK,24.07.2020,fraud,-2,2,-4,6,insurance,,215,insurance
-213,GL,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,216,insurance
-214,GL,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,221,insurance
-215,GL,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,222,insurance
-216,GL,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,223,insurance
-221,HMN,NYK,23.04.2013,fraud,-2,2,-4,6,insurance,,224,insurance
-222,HMN,NYK,30.05.2013,fraud,-2,2,-4,6,insurance,,226,insurance
-223,HMN,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,230,banking
-224,HMN,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,232,banking
-226,HMN,NYK,09.04.2021,fraud,-2,2,-4,6,insurance,,233,banking
-230,HWC,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,236,banking
-232,HWC,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,240,banking
-233,HWC,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,241,banking
-236,HWC,NYK,07.10.2020,fraud,-2,2,-4,6,banking,,242,banking
-240,ISBC,NYK,03.06.2020,fraud,-2,2,-4,6,banking,,243,banking
-241,ISBC,NYK,03.01.2017,fraud,-2,2,-4,6,banking,,244,banking
-242,ISBC,NYK,18.11.2011,fraud,-2,2,-4,6,banking,,245,banking
-243,ISBC,NYK,08.06.2018,fraud,-2,2,-4,6,banking,,247,banking
-244,ISBC,NYK,13.02.2012,fraud,-2,2,-4,6,banking,,251,asset management
-245,ISBC,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,252,asset management
-247,ISBC,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,253,asset management
-251,IVZ,NYK,18.11.2011,fraud,-2,2,-4,6,asset management,,255,asset management
-252,IVZ,NYK,08.06.2018,fraud,-2,2,-4,6,asset management,,258,asset management
-253,IVZ,NYK,03.01.2017,fraud,-2,2,-4,6,asset management,,260,banking
-255,IVZ,NYK,18.05.2015,fraud,-2,2,-4,6,asset management,,265,banking
-258,IVZ,NYK,03.08.2015,fraud,-2,2,-4,6,asset management,,266,banking
-260,JEF,NYK,23.07.2014,fraud,-2,2,-4,6,banking,,269,banking
-265,JEF,NYK,13.03.2013,fraud,-2,2,-4,6,banking,,270,banking
-266,JEF,NYK,18.02.2014,fraud,-2,2,-4,6,banking,,271,banking
-269,JEF,NYK,26.02.2014,fraud,-2,2,-4,6,banking,,276,banking
-270,JPM,NYK,21.07.2015,fraud,-2,2,-4,6,banking,,277,banking
-271,JPM,NYK,05.02.2020,fraud,-2,2,-4,6,banking,,281,insurance
-276,JPM,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,285,insurance
-277,JPM,NYK,07.07.2014,fraud,-2,2,-4,6,banking,,289,asset management
-281,MMC,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,290,asset management
-285,MMC,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,294,asset management
-289,MMC,NYK,01.02.2017,fraud,-2,2,-4,6,asset management,,299,asset management
-290,NDAQ,NYK,01.11.2018,fraud,-2,2,-4,6,asset management,,300,insurance
-294,NDAQ,NYK,27.09.2019,fraud,-2,2,-4,6,asset management,,307,insurance
-299,NDAQ,NYK,22.03.2021,fraud,-2,2,-4,6,asset management,,308,insurance
-300,PGR,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,313,banking
-307,PGR,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,315,banking
-308,PGR,NYK,09.04.2021,fraud,-2,2,-4,6,insurance,,318,banking
-313,PNC,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,324,insurance
-315,PNC,NYK,12.04.2021,fraud,-2,2,-4,6,banking,,327,insurance
-318,PNC,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,328,insurance
-324,PRI,NYK,12.04.2021,fraud,-2,2,-4,6,insurance,,330,asset management
-327,PRI,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,333,asset management
-328,PRI,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,334,asset management
-330,PSEC,NYK,07.10.2020,fraud,-2,2,-4,6,asset management,,335,asset management
-333,PSEC,NYK,14.04.2021,fraud,-2,2,-4,6,asset management,,336,asset management
-334,PSEC,NYK,27.02.2018,fraud,-2,2,-4,6,asset management,,339,asset management
-335,PSEC,NYK,13.04.2021,fraud,-2,2,-4,6,asset management,,340,insurance
-336,PSEC,NYK,13.04.2021,fraud,-2,2,-4,6,asset management,,347,insurance
-339,PSEC,NYK,04.03.2021,fraud,-2,2,-4,6,asset management,,350,asset management
-340,RGA,NYK,24.10.2019,fraud,-2,2,-4,6,insurance,,353,asset management
-347,RGA,NYK,16.01.2014,fraud,-2,2,-4,6,insurance,,354,asset management
-350,RJF,NYK,14.04.2021,fraud,-2,2,-4,6,asset management,,355,asset management
-353,RJF,NYK,13.04.2021,fraud,-2,2,-4,6,asset management,,360,insurance
-354,RJF,NYK,12.04.2021,fraud,-2,2,-4,6,asset management,,363,insurance
-355,RJF,NYK,14.04.2021,fraud,-2,2,-4,6,asset management,,364,insurance
-360,RLI,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,371,asset management
-363,RLI,NYK,12.04.2021,fraud,-2,2,-4,6,insurance,,380,banking
-364,RLI,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,393,insurance
-371,SCHW,NYK,01.05.2013,fraud,-2,2,-4,6,asset management,,396,insurance
-380,SF,NYK,10.08.2011,fraud,-2,2,-4,6,banking,,398,insurance
-393,SIGI,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,400,banking
-396,SIGI,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,403,banking
-398,SIGI,NYK,22.03.2021,fraud,-2,2,-4,6,insurance,,405,banking
-400,SIVB,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,406,banking
-403,SIVB,NYK,01.12.2019,fraud,-2,2,-4,6,banking,,407,banking
-405,SIVB,NYK,12.04.2021,fraud,-2,2,-4,6,banking,,413,insurance
-406,SIVB,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,415,insurance
-407,SIVB,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,416,insurance
-413,THG,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,420,banking
-415,THG,NYK,12.04.2021,fraud,-2,2,-4,6,insurance,,425,banking
-416,THG,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,428,banking
-420,UMPQ,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,429,banking
-425,UMPQ,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,431,insurance
-428,UMPQ,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,432,insurance
-429,UMPQ,NYK,21.07.2015,fraud,-2,2,-4,6,banking,,435,insurance
-431,UNM,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,440,banking
-432,UNM,NYK,14.04.2021,fraud,-2,2,-4,6,insurance,,444,banking
-435,UNM,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,446,banking
-440,USB,NYK,07.04.2021,fraud,-2,2,-4,6,banking,,448,banking
-444,USB,NYK,09.04.2021,fraud,-2,2,-4,6,banking,,463,banking
-446,USB,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,465,banking
-448,USB,NYK,04.03.2021,fraud,-2,2,-4,6,banking,,471,insurance
-463,WFC,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,473,insurance
-465,WFC,NYK,22.03.2021,fraud,-2,2,-4,6,banking,,477,insurance
-471,WRB,NYK,12.04.2021,fraud,-2,2,-4,6,insurance,,481,banking
-473,WRB,NYK,13.04.2021,fraud,-2,2,-4,6,insurance,,482,banking
-477,WRB,NYK,04.02.2019,fraud,-2,2,-4,6,insurance,,484,banking
-481,ZION,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,486,banking
-482,ZION,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,487,banking
-484,ZION,NYK,12.04.2021,fraud,-2,2,-4,6,banking,,,
-486,ZION,NYK,14.04.2021,fraud,-2,2,-4,6,banking,,,
-487,ZION,NYK,13.04.2021,fraud,-2,2,-4,6,banking,,,
+1,AFL,NYK,24.05.2016,fraud,-2,2,-4,6
+3,AFL,NYK,30.10.2013,fraud,-2,2,-4,6
+6,AFL,NYK,29.11.2012,fraud,-2,2,-4,6
+12,ANAT,NYK,22.03.2021,fraud,-2,2,-4,6
+20,AON,NYK,14.04.2021,fraud,-2,2,-4,6
+21,AON,NYK,06.03.2019,fraud,-2,2,-4,6
+23,AON,NYK,20.07.2020,fraud,-2,2,-4,6
+26,AON,NYK,13.04.2021,fraud,-2,2,-4,6
+30,ARCC,NYK,14.04.2021,fraud,-2,2,-4,6
+36,ARCC,NYK,17.11.2020,fraud,-2,2,-4,6
+37,ARCC,NYK,01.02.2017,fraud,-2,2,-4,6
+38,ARCC,NYK,20.02.2018,fraud,-2,2,-4,6
+42,AXP,NYK,22.03.2021,fraud,-2,2,-4,6
+50,BAC,NYK,07.10.2020,fraud,-2,2,-4,6
+51,BAC,NYK,27.02.2018,fraud,-2,2,-4,6
+54,BAC,NYK,15.07.2015,fraud,-2,2,-4,6
+55,BAC,NYK,31.01.2013,fraud,-2,2,-4,6
+56,BAC,NYK,08.10.2009,fraud,-2,2,-4,6
+57,BAC,NYK,07.12.2018,fraud,-2,2,-4,6
+58,BAC,NYK,20.02.2018,fraud,-2,2,-4,6
+60,BHF,NYK,13.04.2021,fraud,-2,2,-4,6
+64,BHF,NYK,22.03.2021,fraud,-2,2,-4,6
+65,BHF,NYK,09.04.2021,fraud,-2,2,-4,6
+67,BHF,NYK,01.02.2017,fraud,-2,2,-4,6
+70,BK,NYK,07.10.2020,fraud,-2,2,-4,6
+71,BK,NYK,27.02.2018,fraud,-2,2,-4,6
+74,BK,NYK,15.07.2015,fraud,-2,2,-4,6
+75,BK,NYK,31.01.2013,fraud,-2,2,-4,6
+76,BK,NYK,08.10.2009,fraud,-2,2,-4,6
+77,BK,NYK,07.12.2018,fraud,-2,2,-4,6
+78,BK,NYK,20.02.2018,fraud,-2,2,-4,6
+81,BLK,NYK,28.07.2011,fraud,-2,2,-4,6
+82,BLK,NYK,11.01.2021,fraud,-2,2,-4,6
+90,BRK-A,NYK,08.05.2019,fraud,-2,2,-4,6
+100,CG,NYK,28.08.2019,fraud,-2,2,-4,6
+108,CG,NYK,18.01.2012,fraud,-2,2,-4,6
+112,CINF,NYK,10.11.2011,fraud,-2,2,-4,6
+121,CME,NYK,18.11.2013,fraud,-2,2,-4,6
+122,CME,NYK,01.02.2017,fraud,-2,2,-4,6
+123,CME,NYK,12.10.2015,fraud,-2,2,-4,6
+132,CNO,NYK,14.04.2021,fraud,-2,2,-4,6
+134,CNO,NYK,14.04.2021,fraud,-2,2,-4,6
+136,CNO,NYK,01.02.2017,fraud,-2,2,-4,6
+138,CNO,NYK,13.04.2021,fraud,-2,2,-4,6
+144,DFS,NYK,15.04.2021,fraud,-2,2,-4,6
+150,FAF,NYK,15.11.2018,fraud,-2,2,-4,6
+152,FAF,NYK,20.02.2021,fraud,-2,2,-4,6
+154,FAF,NYK,14.04.2021,fraud,-2,2,-4,6
+157,FAF,NYK,22.03.2021,fraud,-2,2,-4,6
+160,FCNCA,NYK,15.11.2018,fraud,-2,2,-4,6
+162,FCNCA,NYK,20.02.2021,fraud,-2,2,-4,6
+164,FCNCA,NYK,14.04.2021,fraud,-2,2,-4,6
+167,FCNCA,NYK,22.03.2021,fraud,-2,2,-4,6
+170,FITB,NYK,20.02.2021,fraud,-2,2,-4,6
+171,FITB,NYK,12.04.2021,fraud,-2,2,-4,6
+173,FITB,NYK,14.04.2021,fraud,-2,2,-4,6
+174,FITB,NYK,13.04.2021,fraud,-2,2,-4,6
+180,FMBI,NYK,15.11.2018,fraud,-2,2,-4,6
+182,FMBI,NYK,20.02.2021,fraud,-2,2,-4,6
+184,FMBI,NYK,14.04.2021,fraud,-2,2,-4,6
+187,FMBI,NYK,22.03.2021,fraud,-2,2,-4,6
+201,FNF,NYK,13.04.2021,fraud,-2,2,-4,6
+203,FNF,NYK,14.04.2021,fraud,-2,2,-4,6
+204,FNF,NYK,14.04.2021,fraud,-2,2,-4,6
+208,FNF,NYK,11.04.2018,fraud,-2,2,-4,6
+210,GL,NYK,01.02.2017,fraud,-2,2,-4,6
+211,GL,NYK,24.07.2020,fraud,-2,2,-4,6
+213,GL,NYK,14.04.2021,fraud,-2,2,-4,6
+214,GL,NYK,14.04.2021,fraud,-2,2,-4,6
+215,GL,NYK,13.04.2021,fraud,-2,2,-4,6
+216,GL,NYK,22.03.2021,fraud,-2,2,-4,6
+221,HMN,NYK,23.04.2013,fraud,-2,2,-4,6
+222,HMN,NYK,30.05.2013,fraud,-2,2,-4,6
+223,HMN,NYK,14.04.2021,fraud,-2,2,-4,6
+224,HMN,NYK,13.04.2021,fraud,-2,2,-4,6
+226,HMN,NYK,09.04.2021,fraud,-2,2,-4,6
+230,HWC,NYK,14.04.2021,fraud,-2,2,-4,6
+232,HWC,NYK,14.04.2021,fraud,-2,2,-4,6
+233,HWC,NYK,13.04.2021,fraud,-2,2,-4,6
+236,HWC,NYK,07.10.2020,fraud,-2,2,-4,6
+240,ISBC,NYK,03.06.2020,fraud,-2,2,-4,6
+241,ISBC,NYK,03.01.2017,fraud,-2,2,-4,6
+242,ISBC,NYK,18.11.2011,fraud,-2,2,-4,6
+243,ISBC,NYK,08.06.2018,fraud,-2,2,-4,6
+244,ISBC,NYK,13.02.2012,fraud,-2,2,-4,6
+245,ISBC,NYK,13.04.2021,fraud,-2,2,-4,6
+247,ISBC,NYK,14.04.2021,fraud,-2,2,-4,6
+251,IVZ,NYK,18.11.2011,fraud,-2,2,-4,6
+252,IVZ,NYK,08.06.2018,fraud,-2,2,-4,6
+253,IVZ,NYK,03.01.2017,fraud,-2,2,-4,6
+255,IVZ,NYK,18.05.2015,fraud,-2,2,-4,6
+258,IVZ,NYK,03.08.2015,fraud,-2,2,-4,6
+260,JEF,NYK,23.07.2014,fraud,-2,2,-4,6
+265,JEF,NYK,13.03.2013,fraud,-2,2,-4,6
+266,JEF,NYK,18.02.2014,fraud,-2,2,-4,6
+269,JEF,NYK,26.02.2014,fraud,-2,2,-4,6
+270,JPM,NYK,21.07.2015,fraud,-2,2,-4,6
+271,JPM,NYK,05.02.2020,fraud,-2,2,-4,6
+276,JPM,NYK,13.04.2021,fraud,-2,2,-4,6
+277,JPM,NYK,07.07.2014,fraud,-2,2,-4,6
+281,MMC,NYK,13.04.2021,fraud,-2,2,-4,6
+285,MMC,NYK,22.03.2021,fraud,-2,2,-4,6
+289,MMC,NYK,01.02.2017,fraud,-2,2,-4,6
+290,NDAQ,NYK,01.11.2018,fraud,-2,2,-4,6
+294,NDAQ,NYK,27.09.2019,fraud,-2,2,-4,6
+299,NDAQ,NYK,22.03.2021,fraud,-2,2,-4,6
+300,PGR,NYK,22.03.2021,fraud,-2,2,-4,6
+307,PGR,NYK,13.04.2021,fraud,-2,2,-4,6
+308,PGR,NYK,09.04.2021,fraud,-2,2,-4,6
+313,PNC,NYK,13.04.2021,fraud,-2,2,-4,6
+315,PNC,NYK,12.04.2021,fraud,-2,2,-4,6
+318,PNC,NYK,22.03.2021,fraud,-2,2,-4,6
+324,PRI,NYK,12.04.2021,fraud,-2,2,-4,6
+327,PRI,NYK,14.04.2021,fraud,-2,2,-4,6
+328,PRI,NYK,13.04.2021,fraud,-2,2,-4,6
+330,PSEC,NYK,07.10.2020,fraud,-2,2,-4,6
+333,PSEC,NYK,14.04.2021,fraud,-2,2,-4,6
+334,PSEC,NYK,27.02.2018,fraud,-2,2,-4,6
+335,PSEC,NYK,13.04.2021,fraud,-2,2,-4,6
+336,PSEC,NYK,13.04.2021,fraud,-2,2,-4,6
+339,PSEC,NYK,04.03.2021,fraud,-2,2,-4,6
+340,RGA,NYK,24.10.2019,fraud,-2,2,-4,6
+347,RGA,NYK,16.01.2014,fraud,-2,2,-4,6
+350,RJF,NYK,14.04.2021,fraud,-2,2,-4,6
+353,RJF,NYK,13.04.2021,fraud,-2,2,-4,6
+354,RJF,NYK,12.04.2021,fraud,-2,2,-4,6
+355,RJF,NYK,14.04.2021,fraud,-2,2,-4,6
+360,RLI,NYK,14.04.2021,fraud,-2,2,-4,6
+363,RLI,NYK,12.04.2021,fraud,-2,2,-4,6
+364,RLI,NYK,13.04.2021,fraud,-2,2,-4,6
+371,SCHW,NYK,01.05.2013,fraud,-2,2,-4,6
+380,SF,NYK,10.08.2011,fraud,-2,2,-4,6
+393,SIGI,NYK,13.04.2021,fraud,-2,2,-4,6
+396,SIGI,NYK,13.04.2021,fraud,-2,2,-4,6
+398,SIGI,NYK,22.03.2021,fraud,-2,2,-4,6
+400,SIVB,NYK,14.04.2021,fraud,-2,2,-4,6
+403,SIVB,NYK,01.12.2019,fraud,-2,2,-4,6
+405,SIVB,NYK,12.04.2021,fraud,-2,2,-4,6
+406,SIVB,NYK,14.04.2021,fraud,-2,2,-4,6
+407,SIVB,NYK,13.04.2021,fraud,-2,2,-4,6
+413,THG,NYK,14.04.2021,fraud,-2,2,-4,6
+415,THG,NYK,12.04.2021,fraud,-2,2,-4,6
+416,THG,NYK,13.04.2021,fraud,-2,2,-4,6
+420,UMPQ,NYK,14.04.2021,fraud,-2,2,-4,6
+425,UMPQ,NYK,13.04.2021,fraud,-2,2,-4,6
+428,UMPQ,NYK,14.04.2021,fraud,-2,2,-4,6
+429,UMPQ,NYK,21.07.2015,fraud,-2,2,-4,6
+431,UNM,NYK,14.04.2021,fraud,-2,2,-4,6
+432,UNM,NYK,14.04.2021,fraud,-2,2,-4,6
+435,UNM,NYK,13.04.2021,fraud,-2,2,-4,6
+440,USB,NYK,07.04.2021,fraud,-2,2,-4,6
+444,USB,NYK,09.04.2021,fraud,-2,2,-4,6
+446,USB,NYK,22.03.2021,fraud,-2,2,-4,6
+448,USB,NYK,04.03.2021,fraud,-2,2,-4,6
+463,WFC,NYK,13.04.2021,fraud,-2,2,-4,6
+465,WFC,NYK,22.03.2021,fraud,-2,2,-4,6
+471,WRB,NYK,12.04.2021,fraud,-2,2,-4,6
+473,WRB,NYK,13.04.2021,fraud,-2,2,-4,6
+477,WRB,NYK,04.02.2019,fraud,-2,2,-4,6
+481,ZION,NYK,14.04.2021,fraud,-2,2,-4,6
+482,ZION,NYK,14.04.2021,fraud,-2,2,-4,6
+484,ZION,NYK,12.04.2021,fraud,-2,2,-4,6
+486,ZION,NYK,14.04.2021,fraud,-2,2,-4,6
+487,ZION,NYK,13.04.2021,fraud,-2,2,-4,6

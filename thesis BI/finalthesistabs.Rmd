@@ -1,0 +1,136 @@
+---
+title: "finalthesistabs"
+author: "CosmoGalya"
+date: "4/27/2021"
+output:
+  pdf_document: 
+  keep_tex: yes
+---
+
+```{r setup, include=FALSE}
+
+library(tidyverse)
+library(readxl)
+library(sandwich)
+library(stats)
+library(forecast)
+library(zoo)
+library(gridExtra)
+library(ggpubr)
+library(corrplot)
+library(mosaic)
+library(pander)
+library(rmarkdown)
+
+```
+
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+
+setwd("~/Documents/GitHub/finalthesis/thesis BI")
+findata<-read_excel('request_ticker_bloomberg.xlsx')
+glimpse(findata)
+sector<-read_excel('request_ticker_bloomberg.xlsx', sheet=2)
+age<-read_excel('request_ticker_bloomberg.xlsx', sheet=3)
+sector<-full_join(sector, age, by=c("company"))
+findata<-left_join(findata, sector, by=c("Event ID"="Event ID"))
+
+
+##AR1
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar1/inv/")
+inv_ar1<-read_excel('ar_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar1/cred/")
+cred_ar1<-read_excel('ar_results.xls')
+
+##`CAR Value`
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar1/inv/")
+inv_car1<-read_excel('car_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar1/cred/")
+cred_car1<-read_excel('car_results.xls')
+
+#AR2
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar2/inv/")
+inv_ar2<-read_excel('ar_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar2/cred/")
+cred_ar2<-read_excel('ar_results.xls')
+
+##CAR2
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar2/inv/")
+inv_car2<-read_excel('car_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar2/cred/")
+cred_car2<-read_excel('car_results.xls')
+
+
+#AR5
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar5/inv/")
+inv_ar5<-read_excel('ar_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar5/cred/")
+cred_ar5<-read_excel('ar_results.xls')
+
+##CAR5
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar5/inv/")
+inv_car5<-read_excel('car_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar5/cred/")
+cred_car5<-read_excel('car_results.xls')
+
+##AR30
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar30/inv/")
+inv_ar30<-read_excel('ar_results.xls')
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar30/cred/")
+cred_ar30<-read_excel('ar_results-2.xls')
+
+##CAR30
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar30/inv/")
+inv_car30<-read_excel('car_results.xls')
+inv_caar30<-read_excel('ar_results.xls', sheet = 2)
+setwd("~/Documents/GitHub/finalthesis/thesis BI/ar30/cred/")
+cred_car30<-read_excel('car_results-2.xls')
+cred_caar30<-read_excel('ar_results-2.xls', sheet = 2)
+
+#For models
+lmm<-cbind(leverage=c(findata$DERatio), TAssets=c(findata$Asset), EBITDA=c(findata$ebitda), PB=c(findata$PB), ROA=c(findata$ROA),
+           beta=c(findata$APPLIED_BETA), MCap=c(findata$MV), 
+           age=c(findata$age), EPS=c(findata$eps), BV=c(findata$BV),event=c(findata$`Event ID`))%>%as.data.frame()
+
+m11<-left_join(inv_car1, lmm, by=c("Event ID"="event"))%>%na.omit()
+m11$sector<-as.factor(m11$sector)
+glimpse(m11)
+
+c11<-left_join(cred_car1, findata, by=c("Event ID"="Event ID"))
+c11$sector.x<-as.factor(c11$sector.x)
+lm<-lmm%>%na.omit%>%select(-event)
+
+```
+
+```{r echo=FALSE}
+pander(round(cor(lm), digits = 3))
+```
+
+```{r include=FALSE}
+m1<-left_join(inv_car1, findata, by=c("Event ID"="Event ID"))
+glimpse(m1)
+#m1$sector.y<-as.factor(m1$sector.y)
+#m1$sector.y<-factor(m1$sector.y, levels = c("asset management","banking","insurance"))
+
+md1<-lm(`CAR Value` ~ (log(ebitda) + eps + ROA + log(BV) + 
+                         log(leverage) + APPLIED_BETA):sector.y, data = m1)
+```
+
+
+```{r echo=FALSE}
+pander(summary(md1))
+```
+
+```{r include=FALSE}
+glimpse(c11)
+c11$sector.x<-as.factor(c11$sector.x)
+md_cr11<-lm(`CAR Value`~ (age+APPLIED_BETA+leverage+MV+PB+ROA), data=c11)
+
+```
+
+```{r echo=FALSE}
+pander(summary(md_cr11))
+```
+
+
+
+
