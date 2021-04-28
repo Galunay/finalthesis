@@ -3,7 +3,7 @@ title: "finalthesistabs"
 author: "CosmoGalya"
 date: "4/27/2021"
 output:
-  pdf_document: 
+  pdf_document: default
   keep_tex: yes
 ---
 
@@ -85,6 +85,7 @@ inv_caar30<-read_excel('ar_results.xls', sheet = 2)
 setwd("~/Documents/GitHub/finalthesis/thesis BI/ar30/cred/")
 cred_car30<-read_excel('car_results-2.xls')
 cred_caar30<-read_excel('ar_results-2.xls', sheet = 2)
+setwd("~/Documents/GitHub/finalthesis/thesis BI")
 
 #For models
 lmm<-cbind(leverage=c(findata$DERatio), TAssets=c(findata$Asset), EBITDA=c(findata$ebitda), PB=c(findata$PB), ROA=c(findata$ROA),
